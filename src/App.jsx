@@ -38,7 +38,7 @@ function Navigation() {
   return (
     <nav className="w-64 bg-sidebar border-r border-sidebar-border p-4">
       <div className="mb-8">
-        <h1 className="text-xl font-bold text-primary mb-2">Норникель</h1>
+        <h1 className="text-xl font-bold text-primary mb-2">Logo</h1>
         <p className="text-sm text-muted-foreground">Прогнозирование временных рядов</p>
       </div>
       
